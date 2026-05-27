@@ -1,4 +1,5 @@
-intelli-order-support
+## intelli-order-support
+
 > 基于 Spring Boot 的外卖点餐平台，涵盖用户端小程序与商家管理后台，完整实现从点餐到配送的全流程业务。
 
 ## 📖 项目简介
