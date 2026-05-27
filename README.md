@@ -347,7 +347,7 @@ sky-take-out/
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/yourname/sky-take-out.git
+git clone https://github.com/konlue/intelli-order-support.git
 
 # 2. 初始化数据库
 mysql -u root -p < sql/sky.sql
